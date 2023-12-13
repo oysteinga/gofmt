@@ -1,3 +1,3 @@
-module github.com/oysteinga/gof
+module github.com/oysteinga/gofmt
 
 go 1.21.3
